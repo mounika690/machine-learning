@@ -1,0 +1,20 @@
+system specification
+
+!cat  /proc/cpuinfo
+
+!cat/proc/meminfo
+
+!cat  /proc/meminfo
+
+!pip install pandas
+
+import pandas as pd
+
+df = pd.read_csv('/content/people-100.csv')
+
+df.head()
+
+print('machine ;earning')
+
+!ls
+
